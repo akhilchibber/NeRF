@@ -9,6 +9,6 @@ Blog: https://medium.com/@akhil.chibber/playing-around-with-nerf-models-and-2d-i
 
 ## Contact
 
-Author - Akhil Chhibber
+Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
