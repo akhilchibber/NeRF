@@ -25,4 +25,6 @@ Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
 
-Blog: https://medium.com/@akhil.chibber/playing-around-with-nerf-models-and-2d-images-3c92f353593a
+NeRF Blog: https://medium.com/@akhil.chibber/playing-around-with-nerf-models-and-2d-images-3c92f353593a
+
+Medium Blogs: https://medium.com/@akhil.chibber
